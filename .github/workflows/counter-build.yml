@@ -35,8 +35,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
-    - name: ⚙️ Install lcov
-        run: |
+    - name: ⚙️ Install ninja-build & libgtk-3-dev
+      run: |
           sudo apt-get update
           sudo apt-get -y install ninja-build
           sudo apt-get -y install libgtk-3-dev
