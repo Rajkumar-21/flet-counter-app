@@ -7,5 +7,3 @@ This application developed using flet - python flutter framework to develop flut
 
 
 Credits: <a href="https://github.com/ndonkoHenri" target="_blank">ndonkoHenri</a>
-
-[ndonkoHenri](https://github.com/ndonkoHenri)
